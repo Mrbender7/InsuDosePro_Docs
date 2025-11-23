@@ -1,6 +1,6 @@
-# Politique de Confidentialité de GlucoFlow
+# Politique de Confidentialité de DoseMate
 
-La sécurité de vos données est notre priorité absolue. GlucoFlow est conçu pour fonctionner sans serveurs externes, garantissant une confidentialité maximale.
+La sécurité de vos données est notre priorité absolue. DoseMate est conçu pour fonctionner sans serveurs externes, garantissant une confidentialité maximale.
 
 ## 1. Collecte et Stockage des Données
 
@@ -14,9 +14,9 @@ Pour renforcer votre sécurité et garantir la confidentialité, toutes vos donn
 
 Pour toute question relative à cette politique ou au fonctionnement de l'application, veuillez contacter le support à l'adresse : peak.beryl8090@eagereverest.com.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# GlucoFlow Privacy Policy
+# DoseMate Privacy Policy
 
-The security of your data is our absolute priority. GlucoFlow is designed to function without external servers, guaranteeing maximum privacy.
+The security of your data is our absolute priority. DoseMate is designed to function without external servers, guaranteeing maximum privacy.
 
 ## 1. Data Collection and Storage
 
