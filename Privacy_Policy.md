@@ -1,3 +1,6 @@
+layout: default
+title: "Politique de Confidentialité InsuDose Pro"
+
 Politique de Confidentialité de InsuDose Pro
 
 Date d'entrée en vigueur : Décembre 2025
@@ -59,5 +62,3 @@ No third-party servers are used for data storage or synchronization. The Applica
 We do not share, sell, or rent your personal or medical data to third parties.
 
 5. Contact
-
-For any questions regarding this policy or the operation of the Application, please contact support at: peak.beryl8090@eagereverest.com.
