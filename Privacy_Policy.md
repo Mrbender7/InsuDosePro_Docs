@@ -1,30 +1,63 @@
-# Politique de Confidentialité de InsuDose Pro
+Politique de Confidentialité de InsuDose Pro
 
-La sécurité de vos données est notre priorité absolue. InsuDose Pro est conçu pour fonctionner sans serveurs externes, garantissant une confidentialité maximale.
+Date d'entrée en vigueur : Décembre 2025
 
-## 1. Collecte et Stockage des Données
+Cette politique de confidentialité décrit comment l'application mobile InsuDose Pro ("nous", "notre", "l'Application") gère vos informations personnelles.
 
-L'application ne collecte, ne stocke, ni ne transmet aucune donnée personnelle ou médicale (glycémie, ratios d'insuline, historique) à des serveurs tiers ou à des entités externes, y compris les développeurs. Toutes les informations sont uniquement et intégralement enregistrées en local sur votre appareil (smartphone ou tablette).
+1. Données Collectées et Stockage
 
-## 2. Sécurité des Données Locales
+L'Application InsuDose Pro est conçue pour fonctionner sans serveurs externes, garantissant une confidentialité maximale.
 
-Pour renforcer votre sécurité et garantir la confidentialité, toutes vos données de configuration sont chiffrées localement sur votre appareil à l'aide de l'algorithme de chiffrement AES-256. Les opérations de chiffrement et de déchiffrement sont effectuées de manière transparente, sans intervention de votre part, assurant une protection contre l'accès non autorisé au stockage local de l'appareil.
+Données stockées : L'application ne collecte, ne stocke, ni ne transmet aucune donnée personnelle ou médicale (glycémie, ratios d'insuline, historique, paramètres utilisateur) à des serveurs tiers ou à des entités externes, y compris les développeurs.
 
-## 3. Contact
+Localisation du Stockage : Toutes les informations sont uniquement et intégralement enregistrées en local sur votre appareil (smartphone ou tablette) via les préférences de l'application.
 
-Pour toute question relative à cette politique ou au fonctionnement de l'application, veuillez contacter le support à l'adresse : peak.beryl8090@eagereverest.com.
+2. Sécurité des Données Locales
+
+Chiffrement : Pour renforcer votre sécurité et garantir la confidentialité, toutes vos données de configuration sont chiffrées localement sur votre appareil à l'aide de l'algorithme de chiffrement AES-256.
+
+Opérations : Les opérations de chiffrement et de déchiffrement sont effectuées de manière transparente, sans intervention de votre part, assurant une protection contre l'accès non autorisé au stockage local de l'appareil.
+
+3. Services Tiers
+
+Aucun serveur tiers n'est utilisé pour le stockage ou la synchronisation des données. L'application fonctionne de manière autonome.
+
+4. Partage des Données
+
+Nous ne partageons, ne vendons ni ne louons vos données personnelles ou médicales à des tiers.
+
+5. Contact
+
+Pour toute question concernant cette politique ou le fonctionnement de l'application, veuillez contacter le support à l'adresse : peak.beryl8090@eagereverest.com.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# InsuDose Pro Privacy Policy
+InsuDose Pro Privacy Policy
 
-The security of your data is our absolute priority. InsuDose Pro is designed to function without external servers, guaranteeing maximum privacy.
+Effective Date: December 2025
 
-## 1. Data Collection and Storage
+This Privacy Policy describes how the mobile application InsuDose Pro ("we", "our", "the Application") manages your personal information.
 
-The app does not collect, store, nor transmit any personal or medical data (blood sugar, insulin ratios, history) to third-party servers or external entities, including the developers. All information is exclusively and entirely saved locally on your device (smartphone or tablet).
+1. Data Collected and Storage
 
-## 2. Local Data Security
+The InsuDose Pro Application is designed to function without external servers, ensuring maximum privacy.
 
-To enhance your security and guarantee confidentiality, all your configuration data is locally encrypted on your device using the AES-256 encryption algorithm. Encryption and decryption operations are performed transparently, without your intervention, ensuring protection against unauthorized access to the device's local storage.
+Stored Data: The Application does not collect, store, nor transmit any personal or medical data (blood glucose levels, insulin ratios, history, user settings) to third-party servers or external entities, including developers.
 
-## 3. Contact
-For any questions regarding this policy or the application's operation, please contact support at: peak.beryl8090@eagereverest.com.
+Storage Location: All information is solely and entirely saved locally on your device (smartphone or tablet) using the application's preferences.
+
+2. Local Data Security
+
+Encryption: To enhance your security and ensure confidentiality, all your configuration data is encrypted locally on your device using the AES-256 encryption algorithm.
+
+Operations: Encryption and decryption operations are performed transparently, without any intervention on your part, ensuring protection against unauthorized access to the device's local storage.
+
+3. Third-Party Services
+
+No third-party servers are used for data storage or synchronization. The Application operates autonomously.
+
+4. Data Sharing
+
+We do not share, sell, or rent your personal or medical data to third parties.
+
+5. Contact
+
+For any questions regarding this policy or the operation of the Application, please contact support at: peak.beryl8090@eagereverest.com.
